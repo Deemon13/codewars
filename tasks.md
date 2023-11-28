@@ -48,3 +48,17 @@ Note: The function accepts an integer and returns an integer.
 Simple, given a string of words, return the length of the shortest word(s).
 
 String will never be empty and you do not need to account for different data types.
+
+// 7kyu. task-008. Reverse words //
+
+Complete the function that accepts a string parameter, and reverses each word in the string. All spaces in the string should be retained.
+
+Examples:
+"This is an example!" ==> "sihT si na !elpmaxe"
+"double  spaces"      ==> "elbuod  secaps"
+
+// 8kyu. task-009. Returning Strings //
+
+Make a function that will return a greeting statement that uses an input; your program should return, "Hello, <name> how are you doing today?".
+
+[Make sure you type the exact thing I wrote or the program may not execute properly]
